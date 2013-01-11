@@ -10,3 +10,6 @@
 [submodule "FD"]
 	path = FD
 	url = git://github.com/srikumarks/FD.js.git
+[submodule "package_registry"]
+	path = package_registry
+	url = git://github.com/srikumarks/package_registry.git
